@@ -1,2 +1,2 @@
 # Under construction
-![](images/under_construction.jpg)
+<!-- ![](images/under_construction.jpg) -->
